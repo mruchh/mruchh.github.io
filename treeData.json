@@ -1,0 +1,209 @@
+{
+  "name": "Academics",
+  "children": [
+    {
+				"nodeName" : "Computer Science",
+				"name" : "Computer Science",
+				"type" : "type1",
+				"code" : "N2.1",
+
+				"version" : "v1.0",
+				"children" : [{
+						"nodeName" : "Computer Programming",
+						"name" : "Computer Programming",
+						"type" : "type2",
+						"code" : "N3.1",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Apache",
+						"name" : "Apache",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Spark",
+						"name" : "Spark",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Azure",
+						"name" : "Azure",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Java",
+						"name" : "Java",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "R Programming",
+						"name" : "R Programming",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "SQL",
+						"name" : "SQL",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Artificial Intelligence",
+						"name" : "Artificial Intelligence",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Cloud Computing",
+						"name" : "Cloud Computing",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Hadoop",
+						"name" : "Hadoop",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "I.T.",
+						"name" : "I.T.",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Linux",
+						"name" : "Linux",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Matlab",
+						"name" : "Matlab",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Relational Databases",
+						"name" : "Relational Databases",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}, {
+						"nodeName" : "Data Science",
+						"name" : "Data Science",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : [
+              {
+               "nodeName" : "Big Data",
+               "name" : "Big Data",
+               "type" : "type2",
+               "code" : "N3.2",
+               "version" : "v1.0",
+               "children" : []
+             }, {
+   						"nodeName" : "Business Intelligence",
+   						"name" : "Business Intelligence",
+   						"type" : "type2",
+   						"code" : "N3.2",
+   						"version" : "v1.0",
+   						"children" : []
+   					}, {
+  						"nodeName" : "Data Analysis",
+  						"name" : "Data Analysis",
+  						"type" : "type2",
+  						"code" : "N3.2",
+  						"version" : "v1.0",
+  						"children" : []
+  					}, {
+  						"nodeName" : "Data Mining",
+  						"name" : "Data Mining",
+  						"type" : "type2",
+  						"code" : "N3.2",
+  						"version" : "v1.0",
+  						"children" : []
+  					}, {
+  						"nodeName" : "Data Visualization",
+  						"name" : "Data Visualization",
+  						"type" : "type2",
+  						"code" : "N3.2",
+  						"version" : "v1.0",
+  						"children" : []
+  					}, {
+  						"nodeName" : "Excel",
+  						"name" : "Excel",
+  						"type" : "type2",
+  						"code" : "N3.2",
+  						"version" : "v1.0",
+  						"children" : []
+  					}, {
+  						"nodeName" : "Predictive Analysis",
+  						"name" : "Predictive Analysis",
+  						"type" : "type2",
+  						"code" : "N3.2",
+  						"version" : "v1.0",
+  						"children" : []
+  					}
+            ]
+					}
+				]
+			}, {
+				"nodeName" : "IT and Software",
+				"name" : "IT and Software",
+				"type" : "type1",
+				"code" : "N2.2",
+				"version" : "v1.0",
+
+				"children" : [
+          {
+						"nodeName" : "IT Certification",
+						"name" : "IT Certification",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					},{
+						"nodeName" : "Network Security",
+						"name" : "Network Security",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					},{
+						"nodeName" : "Hardware",
+						"name" : "Hardware",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					},{
+						"nodeName" : "Operating System",
+						"name" : "Operating System",
+						"type" : "type2",
+						"code" : "N3.2",
+						"version" : "v1.0",
+						"children" : []
+					}
+    ]
+			}
+    ]
+  }
